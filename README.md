@@ -1,7 +1,5 @@
-00:00 : 11:59
-
-
 Installation:
+
 1. Install pip `>sudo apt-get install pip`
 
 2. Install virtualenv `>pip install virtualenv`
@@ -13,4 +11,9 @@ Installation:
 5. Visit localhost:5000
 
 6. Profit
+
+
+
+
+m101 -> 00:00 : 11:59
 
