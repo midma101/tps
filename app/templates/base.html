@@ -1,0 +1,11 @@
+<html>
+  <head>
+    <script src="/static/scripts/jquery-1.10.2.min.js"></script>
+    {% block head %}{% endblock %}
+    <title>{{ title }}</title>
+  </head>
+  <body>
+    <h1>{{ heading }}</h1>
+    {% block content %}{% endblock %}
+  </body>
+</html>
